@@ -1,9 +1,11 @@
 # Multi-Task-Learning-Projects
 
-https://github.com/ConnorWatts/Multi-Task-GAN
+This repo contains a collection of my projects exploring Multi-Task Learning. Below are summaries of the projects with links to the respective repos
 
-https://github.com/ConnorWatts/Multi-Task-Learning-for-Image-Seg
+Multi-Task Learning GAN https://github.com/ConnorWatts/Multi-Task-GAN
 
-https://github.com/ConnorWatts/Multi-Task-Genre-Classification
+Multi-Task Learning to Improve Image Segmentation https://github.com/ConnorWatts/Multi-Task-Learning-for-Image-Seg
 
-https://github.com/ConnorWatts/BAM-NLU
+Multi-Task Learning for Song Genre Classification using Lyrics https://github.com/ConnorWatts/Multi-Task-Genre-Classification
+
+Pytorch Implementation of Born Again Multi-Task Networks https://github.com/ConnorWatts/BAM-NLU
